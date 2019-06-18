@@ -1,16 +1,12 @@
 # models
-directory for modeling of data
+discription: directory for modeling of data
 
 # directories
-
-## data
-	* contains data referenced in jupyter notebooks
-
-## jupyter_nbs
-	* various models for the time series in jupyter notebooks
-	* testbed for ideas etc
-
-## memos
-	* write-ups of the problem, different models, etc
-	* memos include summaries of some of the observations from the jupyter notebooks
-	* note some will be kept private
+- jupyter_nbs
+  - directory for jupyter notebooks
+  - various models for the time series in jupyter notebooks
+  - testbed for ideas etc
+- data
+  - data samples to play with 
+  - currently csv; can/will move to include hdf5 too
+  - contains data referenced in jupyter notebooks
