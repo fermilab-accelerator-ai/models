@@ -1,0 +1,1169 @@
+id,Event,State ID,Time,Machine
+0,1D ,4,09:17.2,Booster
+1,E3 ,6,09:17.2,Recycler
+2,A5 ,2,09:17.2,NuMI
+3,15,2,09:17.3,Booster
+4,15,2,09:17.3,Booster
+5,15,2,09:17.4,Booster
+6,15,2,09:17.5,Booster
+7,15,2,09:17.5,Booster
+8,15,2,09:17.6,Booster
+9,15,2,09:17.7,Booster
+10,15,2,09:17.7,Booster
+11,15,2,09:17.8,Booster
+12,15,2,09:17.9,Booster
+13,15,2,09:17.9,Booster
+14,15,2,09:18.0,Booster
+15,2A ,9,09:18.0,MI
+16,AE ,2,09:18.0,NuMI
+17,1D ,4,09:18.1,Booster
+18,93,1,09:18.1,Accumulator
+19,E9 ,20,09:18.1,Recycler
+20,1C ,2,09:18.1,Booster
+21,1C ,2,09:18.2,Booster
+22,12,1,09:18.3,Booster
+23,17,5,09:18.3,Booster
+24,94,1,09:18.3,Accumulator
+25,E9 ,20,09:18.3,Recycler
+26,1C ,2,09:18.4,Booster
+27,1C ,2,09:18.5,Booster
+28,1D ,4,09:18.5,Booster
+29,32,1,09:18.5,Switchyard
+30,1D ,4,09:18.6,Booster
+31,E3 ,6,09:18.6,Recycler
+32,A5 ,2,09:18.6,NuMI
+33,15,2,09:18.7,Booster
+34,15,2,09:18.7,Booster
+35,15,2,09:18.8,Booster
+36,15,2,09:18.9,Booster
+37,15,2,09:18.9,Booster
+38,15,2,09:19.0,Booster
+39,15,2,09:19.1,Booster
+40,15,2,09:19.1,Booster
+41,15,2,09:19.2,Booster
+42,15,2,09:19.3,Booster
+43,15,2,09:19.3,Booster
+44,15,2,09:19.4,Booster
+45,2A ,9,09:19.4,MI
+46,AE ,2,09:19.4,NuMI
+47,1D ,4,09:19.5,Booster
+48,93,1,09:19.5,Accumulator
+49,E9 ,20,09:19.5,Recycler
+50,1C ,2,09:19.5,Booster
+51,1C ,2,09:19.6,Booster
+52,1D ,4,09:19.7,Booster
+53,1D ,4,09:19.7,Booster
+54,94,1,09:19.7,Accumulator
+55,E9 ,20,09:19.7,Recycler
+56,1C ,2,09:19.8,Booster
+57,1C ,2,09:19.9,Booster
+58,1D ,4,09:19.9,Booster
+59,1D ,4,09:20.0,Booster
+60,E3 ,6,09:20.0,Recycler
+61,A5 ,2,09:20.0,NuMI
+62,15,2,09:20.1,Booster
+63,15,2,09:20.1,Booster
+64,15,2,09:20.2,Booster
+65,15,2,09:20.3,Booster
+66,15,2,09:20.3,Booster
+67,15,2,09:20.4,Booster
+68,15,2,09:20.5,Booster
+69,15,2,09:20.5,Booster
+70,15,2,09:20.6,Booster
+71,15,2,09:20.7,Booster
+72,15,2,09:20.7,Booster
+73,15,2,09:20.8,Booster
+74,2A ,9,09:20.8,MI
+75,AE ,2,09:20.8,NuMI
+76,1D ,4,09:20.9,Booster
+77,93,1,09:20.9,Accumulator
+78,E9 ,20,09:20.9,Recycler
+79,1C ,2,09:20.9,Booster
+80,1C ,2,09:21.0,Booster
+81,1D ,4,09:21.1,Booster
+82,1D ,4,09:21.1,Booster
+83,94,1,09:21.1,Accumulator
+84,E9 ,20,09:21.1,Recycler
+85,1C ,2,09:21.2,Booster
+86,1C ,2,09:21.3,Booster
+87,1D ,4,09:21.3,Booster
+88,1D ,4,09:21.4,Booster
+89,1D ,4,09:21.5,Booster
+90,1D ,4,09:21.5,Booster
+91,30,1,09:21.5,Accumulator
+92,1D ,4,09:21.6,Booster
+93,E2 ,5,09:21.7,Recycler
+94,13,2,09:21.8,Booster
+95,1D ,4,09:21.9,Booster
+96,1D ,4,09:21.9,Booster
+97,1D ,4,09:22.0,Booster
+98,1D ,4,09:22.1,Booster
+99,20,23,09:22.1,MI
+100,12,1,09:22.5,Booster
+101,1D ,4,09:22.6,Booster
+102,1D ,4,09:22.7,Booster
+103,1D ,4,09:22.7,Booster
+104,12,1,09:22.8,Booster
+105,1D ,4,09:22.9,Booster
+106,1D ,4,09:22.9,Booster
+107,1D ,4,09:23.0,Booster
+108,1D ,4,09:23.1,Booster
+109,1D ,4,09:23.1,Booster
+110,E0 ,2,09:24.2,Recycler
+111,19,2,09:24.3,Booster
+112,1D ,4,09:24.3,Booster
+113,1D ,4,09:24.4,Booster
+114,1D ,4,09:24.5,Booster
+115,1D ,4,09:24.5,Booster
+116,12,1,09:25.0,Booster
+117,1D ,4,09:25.1,Booster
+118,1D ,4,09:25.1,Booster
+119,1D ,4,09:25.2,Booster
+120,1D ,4,09:25.3,Booster
+121,1D ,4,09:25.3,Booster
+122,12,1,09:25.5,Booster
+123,1D ,4,09:25.5,Booster
+124,1D ,4,09:25.6,Booster
+125,1D ,4,09:25.7,Booster
+126,1D ,4,09:25.7,Booster
+127,1D ,4,09:25.8,Booster
+128,12,1,09:26.2,Booster
+129,1D ,4,09:26.3,Booster
+130,1D ,4,09:26.3,Booster
+131,1D ,4,09:26.4,Booster
+132,1D ,4,09:26.5,Booster
+133,1D ,4,09:26.5,Booster
+134,1D ,4,09:26.6,Booster
+135,1D ,4,09:26.7,Booster
+136,1D ,4,09:26.7,Booster
+137,E3 ,6,09:26.9,Recycler
+138,A5 ,2,09:26.9,NuMI
+139,15,2,09:26.9,Booster
+140,15,2,09:27.0,Booster
+141,15,2,09:27.1,Booster
+142,15,2,09:27.1,Booster
+143,15,2,09:27.2,Booster
+144,15,2,09:27.3,Booster
+145,15,2,09:27.3,Booster
+146,15,2,09:27.4,Booster
+147,15,2,09:27.5,Booster
+148,15,2,09:27.5,Booster
+149,15,2,09:27.6,Booster
+150,15,2,09:27.7,Booster
+151,2A ,9,09:27.7,MI
+152,AE ,2,09:27.7,NuMI
+153,1D ,4,09:27.7,Booster
+154,1D ,4,09:27.8,Booster
+155,1D ,4,09:27.9,Booster
+156,1D ,4,09:27.9,Booster
+157,1D ,4,09:28.0,Booster
+158,1D ,4,09:28.1,Booster
+159,1D ,4,09:28.1,Booster
+160,1D ,4,09:28.2,Booster
+161,1D ,4,09:28.3,Booster
+162,E3 ,6,09:28.3,Recycler
+163,A5 ,2,09:28.3,NuMI
+164,15,2,09:28.3,Booster
+165,15,2,09:28.4,Booster
+166,15,2,09:28.5,Booster
+167,15,2,09:28.5,Booster
+168,15,2,09:28.6,Booster
+169,15,2,09:28.7,Booster
+170,15,2,09:28.7,Booster
+171,15,2,09:28.8,Booster
+172,15,2,09:28.9,Booster
+173,15,2,09:28.9,Booster
+174,15,2,09:29.0,Booster
+175,15,2,09:29.1,Booster
+176,2A ,9,09:29.1,MI
+177,AE ,2,09:29.1,NuMI
+178,12,1,09:29.1,Booster
+179,17,5,09:29.2,Booster
+180,1D ,4,09:29.3,Booster
+181,1D ,4,09:29.3,Booster
+182,1D ,4,09:29.4,Booster
+183,1D ,4,09:29.5,Booster
+184,1D ,4,09:29.5,Booster
+185,1D ,4,09:29.6,Booster
+186,1D ,4,09:29.7,Booster
+187,E3 ,6,09:29.7,Recycler
+188,A5 ,2,09:29.7,NuMI
+189,15,2,09:29.7,Booster
+190,15,2,09:29.8,Booster
+191,15,2,09:29.9,Booster
+192,15,2,09:29.9,Booster
+193,15,2,09:30.0,Booster
+194,15,2,09:30.1,Booster
+195,15,2,09:30.1,Booster
+196,15,2,09:30.2,Booster
+197,15,2,09:30.3,Booster
+198,15,2,09:30.3,Booster
+199,15,2,09:30.4,Booster
+200,15,2,09:30.5,Booster
+201,2A ,9,09:30.5,MI
+202,AE ,2,09:30.5,NuMI
+203,1D ,4,09:30.5,Booster
+204,1D ,4,09:30.6,Booster
+205,1D ,4,09:30.7,Booster
+206,1D ,4,09:30.7,Booster
+207,1D ,4,09:30.8,Booster
+208,1D ,4,09:30.9,Booster
+209,1D ,4,09:30.9,Booster
+210,1D ,4,09:31.0,Booster
+211,1D ,4,09:31.1,Booster
+212,E3 ,6,09:31.1,Recycler
+213,A5 ,2,09:31.1,NuMI
+214,15,2,09:31.1,Booster
+215,15,2,09:31.2,Booster
+216,15,2,09:31.3,Booster
+217,15,2,09:31.3,Booster
+218,15,2,09:31.4,Booster
+219,15,2,09:31.5,Booster
+220,15,2,09:31.5,Booster
+221,15,2,09:31.6,Booster
+222,15,2,09:31.7,Booster
+223,15,2,09:31.7,Booster
+224,15,2,09:31.8,Booster
+225,15,2,09:31.9,Booster
+226,2A ,9,09:31.9,MI
+227,AE ,2,09:31.9,NuMI
+228,1D ,4,09:31.9,Booster
+229,93,1,09:31.9,Accumulator
+230,E9 ,20,09:31.9,Recycler
+231,1C ,2,09:32.0,Booster
+232,1C ,2,09:32.1,Booster
+233,1D ,4,09:32.1,Booster
+234,1D ,4,09:32.2,Booster
+235,94,1,09:32.2,Accumulator
+236,E9 ,20,09:32.2,Recycler
+237,1C ,2,09:32.3,Booster
+238,1C ,2,09:32.3,Booster
+239,1D ,4,09:32.4,Booster
+240,1D ,4,09:32.5,Booster
+241,E3 ,6,09:32.5,Recycler
+242,A5 ,2,09:32.5,NuMI
+243,15,2,09:32.5,Booster
+244,15,2,09:32.6,Booster
+245,15,2,09:32.7,Booster
+246,15,2,09:32.7,Booster
+247,15,2,09:32.8,Booster
+248,15,2,09:32.9,Booster
+249,15,2,09:32.9,Booster
+250,15,2,09:33.0,Booster
+251,15,2,09:33.1,Booster
+252,15,2,09:33.1,Booster
+253,15,2,09:33.2,Booster
+254,15,2,09:33.3,Booster
+255,2A ,9,09:33.3,MI
+256,AE ,2,09:33.3,NuMI
+257,1D ,4,09:33.3,Booster
+258,93,1,09:33.3,Accumulator
+259,E9 ,20,09:33.3,Recycler
+260,1C ,2,09:33.4,Booster
+261,1C ,2,09:33.5,Booster
+262,1D ,4,09:33.5,Booster
+263,1D ,4,09:33.6,Booster
+264,94,1,09:33.6,Accumulator
+265,E9 ,20,09:33.6,Recycler
+266,1C ,2,09:33.7,Booster
+267,1C ,2,09:33.7,Booster
+268,1D ,4,09:33.8,Booster
+269,1D ,4,09:33.9,Booster
+270,E3 ,6,09:33.9,Recycler
+271,A5 ,2,09:33.9,NuMI
+272,15,2,09:33.9,Booster
+273,15,2,09:34.0,Booster
+274,15,2,09:34.1,Booster
+275,15,2,09:34.1,Booster
+276,15,2,09:34.2,Booster
+277,15,2,09:34.3,Booster
+278,15,2,09:34.3,Booster
+279,15,2,09:34.4,Booster
+280,15,2,09:34.5,Booster
+281,15,2,09:34.5,Booster
+282,15,2,09:34.6,Booster
+283,15,2,09:34.7,Booster
+284,2A ,9,09:34.7,MI
+285,AE ,2,09:34.7,NuMI
+286,1D ,4,09:34.7,Booster
+287,93,1,09:34.7,Accumulator
+288,E9 ,20,09:34.7,Recycler
+289,1C ,2,09:34.8,Booster
+290,1C ,2,09:34.9,Booster
+291,1D ,4,09:34.9,Booster
+292,1D ,4,09:35.0,Booster
+293,94,1,09:35.0,Accumulator
+294,E9 ,20,09:35.0,Recycler
+295,1C ,2,09:35.1,Booster
+296,1C ,2,09:35.1,Booster
+297,1D ,4,09:35.2,Booster
+298,1D ,4,09:35.3,Booster
+299,E3 ,6,09:35.3,Recycler
+300,A5 ,2,09:35.3,NuMI
+301,15,2,09:35.3,Booster
+302,15,2,09:35.4,Booster
+303,15,2,09:35.5,Booster
+304,15,2,09:35.5,Booster
+305,15,2,09:35.6,Booster
+306,15,2,09:35.7,Booster
+307,15,2,09:35.7,Booster
+308,15,2,09:35.8,Booster
+309,15,2,09:35.9,Booster
+310,15,2,09:35.9,Booster
+311,15,2,09:36.0,Booster
+312,15,2,09:36.1,Booster
+313,2A ,9,09:36.1,MI
+314,AE ,2,09:36.1,NuMI
+315,1D ,4,09:36.1,Booster
+316,93,1,09:36.1,Accumulator
+317,E9 ,20,09:36.1,Recycler
+318,1C ,2,09:36.2,Booster
+319,1C ,2,09:36.3,Booster
+320,1D ,4,09:36.3,Booster
+321,1D ,4,09:36.4,Booster
+322,94,1,09:36.4,Accumulator
+323,E9 ,20,09:36.4,Recycler
+324,1C ,2,09:36.5,Booster
+325,1C ,2,09:36.5,Booster
+326,1D ,4,09:36.6,Booster
+327,1D ,4,09:36.7,Booster
+328,E3 ,6,09:36.7,Recycler
+329,A5 ,2,09:36.7,NuMI
+330,15,2,09:36.7,Booster
+331,15,2,09:36.8,Booster
+332,15,2,09:36.9,Booster
+333,15,2,09:36.9,Booster
+334,15,2,09:37.0,Booster
+335,15,2,09:37.1,Booster
+336,15,2,09:37.1,Booster
+337,15,2,09:37.2,Booster
+338,15,2,09:37.3,Booster
+339,15,2,09:37.3,Booster
+340,15,2,09:37.4,Booster
+341,15,2,09:37.5,Booster
+342,2A ,9,09:37.5,MI
+343,AE ,2,09:37.5,NuMI
+344,1D ,4,09:37.5,Booster
+345,93,1,09:37.5,Accumulator
+346,E9 ,20,09:37.5,Recycler
+347,1C ,2,09:37.6,Booster
+348,1C ,2,09:37.7,Booster
+349,1D ,4,09:37.7,Booster
+350,1D ,4,09:37.8,Booster
+351,94,1,09:37.8,Accumulator
+352,E9 ,20,09:37.8,Recycler
+353,1C ,2,09:37.9,Booster
+354,1C ,2,09:37.9,Booster
+355,1D ,4,09:38.0,Booster
+356,1D ,4,09:38.1,Booster
+357,E3 ,6,09:38.1,Recycler
+358,A5 ,2,09:38.1,NuMI
+359,15,2,09:38.1,Booster
+360,15,2,09:38.2,Booster
+361,15,2,09:38.3,Booster
+362,15,2,09:38.3,Booster
+363,15,2,09:38.4,Booster
+364,15,2,09:38.5,Booster
+365,15,2,09:38.5,Booster
+366,15,2,09:38.6,Booster
+367,15,2,09:38.7,Booster
+368,15,2,09:38.7,Booster
+369,15,2,09:38.8,Booster
+370,15,2,09:38.9,Booster
+371,2A ,9,09:38.9,MI
+372,AE ,2,09:38.9,NuMI
+373,1D ,4,09:38.9,Booster
+374,93,1,09:38.9,Accumulator
+375,E9 ,20,09:38.9,Recycler
+376,1C ,2,09:39.0,Booster
+377,1C ,2,09:39.1,Booster
+378,12,1,09:39.1,Booster
+379,17,5,09:39.2,Booster
+380,94,1,09:39.2,Accumulator
+381,E9 ,20,09:39.2,Recycler
+382,1C ,2,09:39.3,Booster
+383,1C ,2,09:39.3,Booster
+384,1D ,4,09:39.4,Booster
+385,1D ,4,09:39.5,Booster
+386,E3 ,6,09:39.5,Recycler
+387,A5 ,2,09:39.5,NuMI
+388,15,2,09:39.5,Booster
+389,15,2,09:39.6,Booster
+390,15,2,09:39.7,Booster
+391,15,2,09:39.7,Booster
+392,15,2,09:39.8,Booster
+393,15,2,09:39.9,Booster
+394,15,2,09:39.9,Booster
+395,15,2,09:40.0,Booster
+396,15,2,09:40.1,Booster
+397,15,2,09:40.1,Booster
+398,15,2,09:40.2,Booster
+399,15,2,09:40.3,Booster
+400,2A ,9,09:40.3,MI
+401,AE ,2,09:40.3,NuMI
+402,1D ,4,09:40.3,Booster
+403,93,1,09:40.3,Accumulator
+404,E9 ,20,09:40.3,Recycler
+405,1C ,2,09:40.4,Booster
+406,1C ,2,09:40.5,Booster
+407,1D ,4,09:40.5,Booster
+408,1D ,4,09:40.6,Booster
+409,94,1,09:40.6,Accumulator
+410,E9 ,20,09:40.6,Recycler
+411,1C ,2,09:40.7,Booster
+412,1C ,2,09:40.7,Booster
+413,1D ,4,09:40.8,Booster
+414,1D ,4,09:40.9,Booster
+415,E3 ,6,09:40.9,Recycler
+416,A5 ,2,09:40.9,NuMI
+417,15,2,09:40.9,Booster
+418,15,2,09:41.0,Booster
+419,15,2,09:41.1,Booster
+420,15,2,09:41.1,Booster
+421,15,2,09:41.2,Booster
+422,15,2,09:41.3,Booster
+423,15,2,09:41.3,Booster
+424,15,2,09:41.4,Booster
+425,15,2,09:41.5,Booster
+426,15,2,09:41.5,Booster
+427,15,2,09:41.6,Booster
+428,15,2,09:41.7,Booster
+429,2A ,9,09:41.7,MI
+430,AE ,2,09:41.7,NuMI
+431,1D ,4,09:41.7,Booster
+432,93,1,09:41.7,Accumulator
+433,E9 ,20,09:41.7,Recycler
+434,1C ,2,09:41.8,Booster
+435,1C ,2,09:41.9,Booster
+436,1D ,4,09:41.9,Booster
+437,1D ,4,09:42.0,Booster
+438,94,1,09:42.0,Accumulator
+439,E9 ,20,09:42.0,Recycler
+440,1C ,2,09:42.1,Booster
+441,1C ,2,09:42.1,Booster
+442,1D ,4,09:42.2,Booster
+443,1D ,4,09:42.3,Booster
+444,E3 ,6,09:42.3,Recycler
+445,A5 ,2,09:42.3,NuMI
+446,15,2,09:42.3,Booster
+447,15,2,09:42.4,Booster
+448,15,2,09:42.5,Booster
+449,15,2,09:42.5,Booster
+450,15,2,09:42.6,Booster
+451,15,2,09:42.7,Booster
+452,15,2,09:42.7,Booster
+453,15,2,09:42.8,Booster
+454,15,2,09:42.9,Booster
+455,15,2,09:42.9,Booster
+456,15,2,09:43.0,Booster
+457,15,2,09:43.1,Booster
+458,2A ,9,09:43.1,MI
+459,AE ,2,09:43.1,NuMI
+460,1D ,4,09:43.1,Booster
+461,93,1,09:43.1,Accumulator
+462,E9 ,20,09:43.1,Recycler
+463,1C ,2,09:43.2,Booster
+464,1C ,2,09:43.3,Booster
+465,1D ,4,09:43.3,Booster
+466,1D ,4,09:43.4,Booster
+467,94,1,09:43.4,Accumulator
+468,E9 ,20,09:43.4,Recycler
+469,1C ,2,09:43.5,Booster
+470,1C ,2,09:43.5,Booster
+471,1D ,4,09:43.6,Booster
+472,1D ,4,09:43.7,Booster
+473,E3 ,6,09:43.7,Recycler
+474,A5 ,2,09:43.7,NuMI
+475,15,2,09:43.7,Booster
+476,15,2,09:43.8,Booster
+477,15,2,09:43.9,Booster
+478,15,2,09:43.9,Booster
+479,15,2,09:44.0,Booster
+480,15,2,09:44.1,Booster
+481,15,2,09:44.1,Booster
+482,15,2,09:44.2,Booster
+483,15,2,09:44.3,Booster
+484,15,2,09:44.3,Booster
+485,15,2,09:44.4,Booster
+486,15,2,09:44.5,Booster
+487,2A ,9,09:44.5,MI
+488,AE ,2,09:44.5,NuMI
+489,1D ,4,09:44.5,Booster
+490,93,1,09:44.5,Accumulator
+491,E9 ,20,09:44.5,Recycler
+492,1C ,2,09:44.6,Booster
+493,1C ,2,09:44.7,Booster
+494,1D ,4,09:44.7,Booster
+495,1D ,4,09:44.8,Booster
+496,94,1,09:44.8,Accumulator
+497,E9 ,20,09:44.8,Recycler
+498,1C ,2,09:44.9,Booster
+499,1C ,2,09:44.9,Booster
+500,1D ,4,09:45.0,Booster
+501,1D ,4,09:45.1,Booster
+502,E3 ,6,09:45.1,Recycler
+503,A5 ,2,09:45.1,NuMI
+504,15,2,09:45.1,Booster
+505,15,2,09:45.2,Booster
+506,15,2,09:45.3,Booster
+507,15,2,09:45.3,Booster
+508,15,2,09:45.4,Booster
+509,15,2,09:45.5,Booster
+510,15,2,09:45.5,Booster
+511,15,2,09:45.6,Booster
+512,15,2,09:45.7,Booster
+513,15,2,09:45.7,Booster
+514,15,2,09:45.8,Booster
+515,15,2,09:45.9,Booster
+516,2A ,9,09:45.9,MI
+517,AE ,2,09:45.9,NuMI
+518,1D ,4,09:45.9,Booster
+519,93,1,09:45.9,Accumulator
+520,E9 ,20,09:45.9,Recycler
+521,1C ,2,09:46.0,Booster
+522,1C ,2,09:46.1,Booster
+523,1D ,4,09:46.1,Booster
+524,1D ,4,09:46.2,Booster
+525,94,1,09:46.2,Accumulator
+526,E9 ,20,09:46.2,Recycler
+527,1C ,2,09:46.3,Booster
+528,1C ,2,09:46.3,Booster
+529,1D ,4,09:46.4,Booster
+530,1D ,4,09:46.5,Booster
+531,E3 ,6,09:46.5,Recycler
+532,A5 ,2,09:46.5,NuMI
+533,15,2,09:46.5,Booster
+534,15,2,09:46.6,Booster
+535,15,2,09:46.7,Booster
+536,15,2,09:46.7,Booster
+537,15,2,09:46.8,Booster
+538,15,2,09:46.9,Booster
+539,15,2,09:46.9,Booster
+540,15,2,09:47.0,Booster
+541,15,2,09:47.1,Booster
+542,15,2,09:47.1,Booster
+543,15,2,09:47.2,Booster
+544,15,2,09:47.3,Booster
+545,2A ,9,09:47.3,MI
+546,AE ,2,09:47.3,NuMI
+547,1D ,4,09:47.3,Booster
+548,93,1,09:47.3,Accumulator
+549,E9 ,20,09:47.3,Recycler
+550,1C ,2,09:47.4,Booster
+551,1C ,2,09:47.5,Booster
+552,1D ,4,09:47.5,Booster
+553,1D ,4,09:47.6,Booster
+554,94,1,09:47.6,Accumulator
+555,E9 ,20,09:47.6,Recycler
+556,1C ,2,09:47.7,Booster
+557,1C ,2,09:47.7,Booster
+558,1D ,4,09:47.8,Booster
+559,1D ,4,09:47.9,Booster
+560,E3 ,6,09:47.9,Recycler
+561,A5 ,2,09:47.9,NuMI
+562,15,2,09:47.9,Booster
+563,15,2,09:48.0,Booster
+564,15,2,09:48.1,Booster
+565,15,2,09:48.1,Booster
+566,15,2,09:48.2,Booster
+567,15,2,09:48.3,Booster
+568,15,2,09:48.3,Booster
+569,15,2,09:48.4,Booster
+570,15,2,09:48.5,Booster
+571,15,2,09:48.5,Booster
+572,15,2,09:48.6,Booster
+573,15,2,09:48.7,Booster
+574,2A ,9,09:48.7,MI
+575,AE ,2,09:48.7,NuMI
+576,1D ,4,09:48.7,Booster
+577,93,1,09:48.7,Accumulator
+578,E9 ,20,09:48.7,Recycler
+579,1C ,2,09:48.8,Booster
+580,1C ,2,09:48.9,Booster
+581,1D ,4,09:48.9,Booster
+582,1D ,4,09:49.0,Booster
+583,94,1,09:49.0,Accumulator
+584,E9 ,20,09:49.0,Recycler
+585,1C ,2,09:49.1,Booster
+586,1C ,2,09:49.1,Booster
+587,12,1,09:49.2,Booster
+588,17,5,09:49.3,Booster
+589,E3 ,6,09:49.3,Recycler
+590,A5 ,2,09:49.3,NuMI
+591,15,2,09:49.3,Booster
+592,15,2,09:49.4,Booster
+593,15,2,09:49.5,Booster
+594,15,2,09:49.5,Booster
+595,15,2,09:49.6,Booster
+596,15,2,09:49.7,Booster
+597,15,2,09:49.7,Booster
+598,15,2,09:49.8,Booster
+599,15,2,09:49.9,Booster
+600,15,2,09:49.9,Booster
+601,15,2,09:50.0,Booster
+602,15,2,09:50.1,Booster
+603,2A ,9,09:50.1,MI
+604,AE ,2,09:50.1,NuMI
+605,1D ,4,09:50.1,Booster
+606,93,1,09:50.1,Accumulator
+607,E9 ,20,09:50.1,Recycler
+608,1C ,2,09:50.2,Booster
+609,1C ,2,09:50.3,Booster
+610,1D ,4,09:50.3,Booster
+611,1D ,4,09:50.4,Booster
+612,94,1,09:50.4,Accumulator
+613,E9 ,20,09:50.4,Recycler
+614,1C ,2,09:50.5,Booster
+615,1C ,2,09:50.5,Booster
+616,1D ,4,09:50.6,Booster
+617,1D ,4,09:50.7,Booster
+618,E3 ,6,09:50.7,Recycler
+619,A5 ,2,09:50.7,NuMI
+620,15,2,09:50.7,Booster
+621,15,2,09:50.8,Booster
+622,15,2,09:50.9,Booster
+623,15,2,09:50.9,Booster
+624,15,2,09:51.0,Booster
+625,15,2,09:51.1,Booster
+626,15,2,09:51.1,Booster
+627,15,2,09:51.2,Booster
+628,15,2,09:51.3,Booster
+629,15,2,09:51.3,Booster
+630,15,2,09:51.4,Booster
+631,15,2,09:51.5,Booster
+632,2A ,9,09:51.5,MI
+633,AE ,2,09:51.5,NuMI
+634,1D ,4,09:51.5,Booster
+635,93,1,09:51.5,Accumulator
+636,E9 ,20,09:51.5,Recycler
+637,1C ,2,09:51.6,Booster
+638,1C ,2,09:51.7,Booster
+639,1D ,4,09:51.7,Booster
+640,1D ,4,09:51.8,Booster
+641,94,1,09:51.8,Accumulator
+642,E9 ,20,09:51.8,Recycler
+643,1C ,2,09:51.9,Booster
+644,1C ,2,09:51.9,Booster
+645,1D ,4,09:52.0,Booster
+646,1D ,4,09:52.1,Booster
+647,E3 ,6,09:52.1,Recycler
+648,A5 ,2,09:52.1,NuMI
+649,15,2,09:52.1,Booster
+650,15,2,09:52.2,Booster
+651,15,2,09:52.3,Booster
+652,15,2,09:52.3,Booster
+653,15,2,09:52.4,Booster
+654,15,2,09:52.5,Booster
+655,15,2,09:52.5,Booster
+656,15,2,09:52.6,Booster
+657,15,2,09:52.7,Booster
+658,15,2,09:52.7,Booster
+659,15,2,09:52.8,Booster
+660,15,2,09:52.9,Booster
+661,2A ,9,09:52.9,MI
+662,AE ,2,09:52.9,NuMI
+663,1D ,4,09:52.9,Booster
+664,93,1,09:52.9,Accumulator
+665,E9 ,20,09:52.9,Recycler
+666,1C ,2,09:53.0,Booster
+667,1C ,2,09:53.1,Booster
+668,1D ,4,09:53.1,Booster
+669,1D ,4,09:53.2,Booster
+670,94,1,09:53.2,Accumulator
+671,E9 ,20,09:53.2,Recycler
+672,1C ,2,09:53.3,Booster
+673,1C ,2,09:53.3,Booster
+674,1D ,4,09:53.4,Booster
+675,1D ,4,09:53.5,Booster
+676,E3 ,6,09:53.5,Recycler
+677,A5 ,2,09:53.5,NuMI
+678,15,2,09:53.5,Booster
+679,15,2,09:53.6,Booster
+680,15,2,09:53.7,Booster
+681,15,2,09:53.7,Booster
+682,15,2,09:53.8,Booster
+683,15,2,09:53.9,Booster
+684,15,2,09:53.9,Booster
+685,15,2,09:54.0,Booster
+686,15,2,09:54.1,Booster
+687,15,2,09:54.1,Booster
+688,15,2,09:54.2,Booster
+689,15,2,09:54.3,Booster
+690,2A ,9,09:54.3,MI
+691,AE ,2,09:54.3,NuMI
+692,1D ,4,09:54.3,Booster
+693,93,1,09:54.3,Accumulator
+694,E9 ,20,09:54.3,Recycler
+695,1C ,2,09:54.4,Booster
+696,1C ,2,09:54.5,Booster
+697,1D ,4,09:54.5,Booster
+698,1D ,4,09:54.6,Booster
+699,94,1,09:54.6,Accumulator
+700,E9 ,20,09:54.6,Recycler
+701,1C ,2,09:54.7,Booster
+702,1C ,2,09:54.7,Booster
+703,1D ,4,09:54.8,Booster
+704,1D ,4,09:54.9,Booster
+705,E3 ,6,09:54.9,Recycler
+706,A5 ,2,09:54.9,NuMI
+707,15,2,09:54.9,Booster
+708,15,2,09:55.0,Booster
+709,15,2,09:55.1,Booster
+710,15,2,09:55.1,Booster
+711,15,2,09:55.2,Booster
+712,15,2,09:55.3,Booster
+713,15,2,09:55.3,Booster
+714,15,2,09:55.4,Booster
+715,15,2,09:55.5,Booster
+716,15,2,09:55.5,Booster
+717,15,2,09:55.6,Booster
+718,15,2,09:55.7,Booster
+719,2A ,9,09:55.7,MI
+720,AE ,2,09:55.7,NuMI
+721,1D ,4,09:55.7,Booster
+722,93,1,09:55.7,Accumulator
+723,E9 ,20,09:55.7,Recycler
+724,1C ,2,09:55.8,Booster
+725,1C ,2,09:55.9,Booster
+726,1D ,4,09:55.9,Booster
+727,1D ,4,09:56.0,Booster
+728,94,1,09:56.0,Accumulator
+729,E9 ,20,09:56.0,Recycler
+730,1C ,2,09:56.1,Booster
+731,1C ,2,09:56.1,Booster
+732,1D ,4,09:56.2,Booster
+733,1D ,4,09:56.3,Booster
+734,E3 ,6,09:56.3,Recycler
+735,A5 ,2,09:56.3,NuMI
+736,15,2,09:56.3,Booster
+737,15,2,09:56.4,Booster
+738,15,2,09:56.5,Booster
+739,15,2,09:56.5,Booster
+740,15,2,09:56.6,Booster
+741,15,2,09:56.7,Booster
+742,15,2,09:56.7,Booster
+743,15,2,09:56.8,Booster
+744,15,2,09:56.9,Booster
+745,15,2,09:56.9,Booster
+746,15,2,09:57.0,Booster
+747,15,2,09:57.1,Booster
+748,2A ,9,09:57.1,MI
+749,AE ,2,09:57.1,NuMI
+750,1D ,4,09:57.1,Booster
+751,93,1,09:57.1,Accumulator
+752,E9 ,20,09:57.1,Recycler
+753,1C ,2,09:57.2,Booster
+754,1C ,2,09:57.3,Booster
+755,1D ,4,09:57.3,Booster
+756,1D ,4,09:57.4,Booster
+757,94,1,09:57.4,Accumulator
+758,E9 ,20,09:57.4,Recycler
+759,1C ,2,09:57.5,Booster
+760,1C ,2,09:57.5,Booster
+761,1D ,4,09:57.6,Booster
+762,1D ,4,09:57.7,Booster
+763,E3 ,6,09:57.7,Recycler
+764,A5 ,2,09:57.7,NuMI
+765,15,2,09:57.7,Booster
+766,15,2,09:57.8,Booster
+767,15,2,09:57.9,Booster
+768,15,2,09:57.9,Booster
+769,15,2,09:58.0,Booster
+770,15,2,09:58.1,Booster
+771,15,2,09:58.1,Booster
+772,15,2,09:58.2,Booster
+773,15,2,09:58.3,Booster
+774,15,2,09:58.3,Booster
+775,15,2,09:58.4,Booster
+776,15,2,09:58.5,Booster
+777,2A ,9,09:58.5,MI
+778,AE ,2,09:58.5,NuMI
+779,1D ,4,09:58.5,Booster
+780,93,1,09:58.5,Accumulator
+781,E9 ,20,09:58.5,Recycler
+782,1C ,2,09:58.6,Booster
+783,1C ,2,09:58.7,Booster
+784,1D ,4,09:58.7,Booster
+785,1D ,4,09:58.8,Booster
+786,94,1,09:58.8,Accumulator
+787,E9 ,20,09:58.8,Recycler
+788,1C ,2,09:58.9,Booster
+789,1C ,2,09:58.9,Booster
+790,1D ,4,09:59.0,Booster
+791,1D ,4,09:59.1,Booster
+792,E3 ,6,09:59.1,Recycler
+793,A5 ,2,09:59.1,NuMI
+794,15,2,09:59.1,Booster
+795,15,2,09:59.2,Booster
+796,15,2,09:59.3,Booster
+797,15,2,09:59.3,Booster
+798,15,2,09:59.4,Booster
+799,15,2,09:59.5,Booster
+800,15,2,09:59.5,Booster
+801,15,2,09:59.6,Booster
+802,15,2,09:59.7,Booster
+803,15,2,09:59.7,Booster
+804,15,2,09:59.8,Booster
+805,15,2,09:59.9,Booster
+806,2A ,9,09:59.9,MI
+807,AE ,2,09:59.9,NuMI
+808,1D ,4,09:59.9,Booster
+809,93,1,09:59.9,Accumulator
+810,E9 ,20,09:59.9,Recycler
+811,1C ,2,10:00.0,Booster
+812,1C ,2,10:00.1,Booster
+813,12,1,10:00.1,Booster
+814,17,5,10:00.2,Booster
+815,94,1,10:00.2,Accumulator
+816,E9 ,20,10:00.2,Recycler
+817,1C ,2,10:00.3,Booster
+818,1C ,2,10:00.3,Booster
+819,1D ,4,10:00.4,Booster
+820,1D ,4,10:00.5,Booster
+821,E3 ,6,10:00.5,Recycler
+822,A5 ,2,10:00.5,NuMI
+823,15,2,10:00.5,Booster
+824,15,2,10:00.6,Booster
+825,15,2,10:00.7,Booster
+826,15,2,10:00.7,Booster
+827,15,2,10:00.8,Booster
+828,15,2,10:00.9,Booster
+829,15,2,10:00.9,Booster
+830,15,2,10:01.0,Booster
+831,15,2,10:01.1,Booster
+832,15,2,10:01.1,Booster
+833,15,2,10:01.2,Booster
+834,15,2,10:01.3,Booster
+835,2A ,9,10:01.3,MI
+836,AE ,2,10:01.3,NuMI
+837,1D ,4,10:01.3,Booster
+838,93,1,10:01.3,Accumulator
+839,E9 ,20,10:01.3,Recycler
+840,1C ,2,10:01.4,Booster
+841,1C ,2,10:01.5,Booster
+842,1D ,4,10:01.5,Booster
+843,1D ,4,10:01.6,Booster
+844,94,1,10:01.6,Accumulator
+845,E9 ,20,10:01.6,Recycler
+846,1C ,2,10:01.7,Booster
+847,1C ,2,10:01.7,Booster
+848,1D ,4,10:01.8,Booster
+849,1D ,4,10:01.9,Booster
+850,E3 ,6,10:01.9,Recycler
+851,A5 ,2,10:01.9,NuMI
+852,15,2,10:01.9,Booster
+853,15,2,10:02.0,Booster
+854,15,2,10:02.1,Booster
+855,15,2,10:02.1,Booster
+856,15,2,10:02.2,Booster
+857,15,2,10:02.3,Booster
+858,15,2,10:02.3,Booster
+859,15,2,10:02.4,Booster
+860,15,2,10:02.5,Booster
+861,15,2,10:02.5,Booster
+862,15,2,10:02.6,Booster
+863,15,2,10:02.7,Booster
+864,2A ,9,10:02.7,MI
+865,AE ,2,10:02.7,NuMI
+866,1D ,4,10:02.7,Booster
+867,93,1,10:02.7,Accumulator
+868,E9 ,20,10:02.7,Recycler
+869,1C ,2,10:02.8,Booster
+870,1C ,2,10:02.9,Booster
+871,1D ,4,10:02.9,Booster
+872,1D ,4,10:03.0,Booster
+873,94,1,10:03.0,Accumulator
+874,E9 ,20,10:03.0,Recycler
+875,1C ,2,10:03.1,Booster
+876,1C ,2,10:03.1,Booster
+877,1D ,4,10:03.2,Booster
+878,1D ,4,10:03.3,Booster
+879,E3 ,6,10:03.3,Recycler
+880,A5 ,2,10:03.3,NuMI
+881,15,2,10:03.3,Booster
+882,15,2,10:03.4,Booster
+883,15,2,10:03.5,Booster
+884,15,2,10:03.5,Booster
+885,15,2,10:03.6,Booster
+886,15,2,10:03.7,Booster
+887,15,2,10:03.7,Booster
+888,15,2,10:03.8,Booster
+889,15,2,10:03.9,Booster
+890,15,2,10:03.9,Booster
+891,15,2,10:04.0,Booster
+892,15,2,10:04.1,Booster
+893,2A ,9,10:04.1,MI
+894,AE ,2,10:04.1,NuMI
+895,1D ,4,10:04.1,Booster
+896,93,1,10:04.1,Accumulator
+897,E9 ,20,10:04.1,Recycler
+898,1C ,2,10:04.2,Booster
+899,1C ,2,10:04.3,Booster
+900,1D ,4,10:04.3,Booster
+901,1D ,4,10:04.4,Booster
+902,94,1,10:04.4,Accumulator
+903,E9 ,20,10:04.4,Recycler
+904,1C ,2,10:04.5,Booster
+905,1C ,2,10:04.5,Booster
+906,1D ,4,10:04.6,Booster
+907,1D ,4,10:04.7,Booster
+908,E3 ,6,10:04.7,Recycler
+909,A5 ,2,10:04.7,NuMI
+910,15,2,10:04.7,Booster
+911,15,2,10:04.8,Booster
+912,15,2,10:04.9,Booster
+913,15,2,10:04.9,Booster
+914,15,2,10:05.0,Booster
+915,15,2,10:05.1,Booster
+916,15,2,10:05.1,Booster
+917,15,2,10:05.2,Booster
+918,15,2,10:05.3,Booster
+919,15,2,10:05.3,Booster
+920,15,2,10:05.4,Booster
+921,15,2,10:05.5,Booster
+922,2A ,9,10:05.5,MI
+923,AE ,2,10:05.5,NuMI
+924,1D ,4,10:05.5,Booster
+925,93,1,10:05.5,Accumulator
+926,E9 ,20,10:05.5,Recycler
+927,1C ,2,10:05.6,Booster
+928,1C ,2,10:05.7,Booster
+929,1D ,4,10:05.7,Booster
+930,1D ,4,10:05.8,Booster
+931,94,1,10:05.8,Accumulator
+932,E9 ,20,10:05.8,Recycler
+933,1C ,2,10:05.9,Booster
+934,1C ,2,10:05.9,Booster
+935,1D ,4,10:06.0,Booster
+936,1D ,4,10:06.1,Booster
+937,E3 ,6,10:06.1,Recycler
+938,A5 ,2,10:06.1,NuMI
+939,15,2,10:06.1,Booster
+940,15,2,10:06.2,Booster
+941,15,2,10:06.3,Booster
+942,15,2,10:06.3,Booster
+943,15,2,10:06.4,Booster
+944,15,2,10:06.5,Booster
+945,15,2,10:06.5,Booster
+946,15,2,10:06.6,Booster
+947,15,2,10:06.7,Booster
+948,15,2,10:06.7,Booster
+949,15,2,10:06.8,Booster
+950,15,2,10:06.9,Booster
+951,2A ,9,10:06.9,MI
+952,AE ,2,10:06.9,NuMI
+953,1D ,4,10:06.9,Booster
+954,93,1,10:06.9,Accumulator
+955,E9 ,20,10:06.9,Recycler
+956,1C ,2,10:07.0,Booster
+957,1C ,2,10:07.1,Booster
+958,1D ,4,10:07.1,Booster
+959,1D ,4,10:07.2,Booster
+960,94,1,10:07.2,Accumulator
+961,E9 ,20,10:07.2,Recycler
+962,1C ,2,10:07.3,Booster
+963,1C ,2,10:07.3,Booster
+964,1D ,4,10:07.4,Booster
+965,1D ,4,10:07.5,Booster
+966,E3 ,6,10:07.5,Recycler
+967,A5 ,2,10:07.5,NuMI
+968,15,2,10:07.5,Booster
+969,15,2,10:07.6,Booster
+970,15,2,10:07.7,Booster
+971,15,2,10:07.7,Booster
+972,15,2,10:07.8,Booster
+973,15,2,10:07.9,Booster
+974,15,2,10:07.9,Booster
+975,15,2,10:08.0,Booster
+976,15,2,10:08.1,Booster
+977,15,2,10:08.1,Booster
+978,15,2,10:08.2,Booster
+979,15,2,10:08.3,Booster
+980,2A ,9,10:08.3,MI
+981,AE ,2,10:08.3,NuMI
+982,1D ,4,10:08.3,Booster
+983,93,1,10:08.3,Accumulator
+984,E9 ,20,10:08.3,Recycler
+985,1C ,2,10:08.4,Booster
+986,1C ,2,10:08.5,Booster
+987,1D ,4,10:08.5,Booster
+988,1D ,4,10:08.6,Booster
+989,94,1,10:08.6,Accumulator
+990,E9 ,20,10:08.6,Recycler
+991,1C ,2,10:08.7,Booster
+992,1C ,2,10:08.7,Booster
+993,1D ,4,10:08.8,Booster
+994,1D ,4,10:08.9,Booster
+995,E3 ,6,10:08.9,Recycler
+996,A5 ,2,10:08.9,NuMI
+997,15,2,10:08.9,Booster
+998,15,2,10:09.0,Booster
+999,15,2,10:09.1,Booster
+1000,15,2,10:09.1,Booster
+1001,15,2,10:09.2,Booster
+1002,15,2,10:09.3,Booster
+1003,15,2,10:09.3,Booster
+1004,15,2,10:09.4,Booster
+1005,15,2,10:09.5,Booster
+1006,15,2,10:09.5,Booster
+1007,15,2,10:09.6,Booster
+1008,15,2,10:09.7,Booster
+1009,2A ,9,10:09.7,MI
+1010,AE ,2,10:09.7,NuMI
+1011,1D ,4,10:09.7,Booster
+1012,93,1,10:09.7,Accumulator
+1013,E9 ,20,10:09.7,Recycler
+1014,1C ,2,10:09.8,Booster
+1015,1C ,2,10:09.9,Booster
+1016,1D ,4,10:09.9,Booster
+1017,1D ,4,10:10.0,Booster
+1018,94,1,10:10.0,Accumulator
+1019,E9 ,20,10:10.0,Recycler
+1020,1C ,2,10:10.1,Booster
+1021,1C ,2,10:10.1,Booster
+1022,12,1,10:10.2,Booster
+1023,17,5,10:10.3,Booster
+1024,E3 ,6,10:10.3,Recycler
+1025,A5 ,2,10:10.3,NuMI
+1026,15,2,10:10.3,Booster
+1027,15,2,10:10.4,Booster
+1028,15,2,10:10.5,Booster
+1029,15,2,10:10.5,Booster
+1030,15,2,10:10.6,Booster
+1031,15,2,10:10.7,Booster
+1032,15,2,10:10.7,Booster
+1033,15,2,10:10.8,Booster
+1034,15,2,10:10.9,Booster
+1035,15,2,10:10.9,Booster
+1036,15,2,10:11.0,Booster
+1037,15,2,10:11.1,Booster
+1038,2A ,9,10:11.1,MI
+1039,AE ,2,10:11.1,NuMI
+1040,1D ,4,10:11.1,Booster
+1041,93,1,10:11.1,Accumulator
+1042,E9 ,20,10:11.1,Recycler
+1043,1C ,2,10:11.2,Booster
+1044,1C ,2,10:11.3,Booster
+1045,1D ,4,10:11.3,Booster
+1046,1D ,4,10:11.4,Booster
+1047,94,1,10:11.4,Accumulator
+1048,E9 ,20,10:11.4,Recycler
+1049,1C ,2,10:11.5,Booster
+1050,1C ,2,10:11.5,Booster
+1051,1D ,4,10:11.6,Booster
+1052,1D ,4,10:11.7,Booster
+1053,E3 ,6,10:11.7,Recycler
+1054,A5 ,2,10:11.7,NuMI
+1055,15,2,10:11.7,Booster
+1056,15,2,10:11.8,Booster
+1057,15,2,10:11.9,Booster
+1058,15,2,10:11.9,Booster
+1059,15,2,10:12.0,Booster
+1060,15,2,10:12.1,Booster
+1061,15,2,10:12.1,Booster
+1062,15,2,10:12.2,Booster
+1063,15,2,10:12.3,Booster
+1064,15,2,10:12.3,Booster
+1065,15,2,10:12.4,Booster
+1066,15,2,10:12.5,Booster
+1067,2A ,9,10:12.5,MI
+1068,AE ,2,10:12.5,NuMI
+1069,1D ,4,10:12.5,Booster
+1070,93,1,10:12.5,Accumulator
+1071,E9 ,20,10:12.5,Recycler
+1072,1C ,2,10:12.6,Booster
+1073,1C ,2,10:12.7,Booster
+1074,1D ,4,10:12.7,Booster
+1075,1D ,4,10:12.8,Booster
+1076,94,1,10:12.8,Accumulator
+1077,E9 ,20,10:12.8,Recycler
+1078,1C ,2,10:12.9,Booster
+1079,1C ,2,10:12.9,Booster
+1080,1D ,4,10:13.0,Booster
+1081,1D ,4,10:13.1,Booster
+1082,E3 ,6,10:13.1,Recycler
+1083,A5 ,2,10:13.1,NuMI
+1084,15,2,10:13.1,Booster
+1085,15,2,10:13.2,Booster
+1086,15,2,10:13.3,Booster
+1087,15,2,10:13.3,Booster
+1088,15,2,10:13.4,Booster
+1089,15,2,10:13.5,Booster
+1090,15,2,10:13.5,Booster
+1091,15,2,10:13.6,Booster
+1092,15,2,10:13.7,Booster
+1093,15,2,10:13.7,Booster
+1094,15,2,10:13.8,Booster
+1095,15,2,10:13.9,Booster
+1096,2A ,9,10:13.9,MI
+1097,AE ,2,10:13.9,NuMI
+1098,1D ,4,10:13.9,Booster
+1099,93,1,10:13.9,Accumulator
+1100,E9 ,20,10:13.9,Recycler
+1101,1C ,2,10:14.0,Booster
+1102,1C ,2,10:14.1,Booster
+1103,1D ,4,10:14.1,Booster
+1104,1D ,4,10:14.2,Booster
+1105,94,1,10:14.2,Accumulator
+1106,E9 ,20,10:14.2,Recycler
+1107,1C ,2,10:14.3,Booster
+1108,1C ,2,10:14.3,Booster
+1109,1D ,4,10:14.4,Booster
+1110,1D ,4,10:14.5,Booster
+1111,E3 ,6,10:14.5,Recycler
+1112,A5 ,2,10:14.5,NuMI
+1113,15,2,10:14.5,Booster
+1114,15,2,10:14.6,Booster
+1115,15,2,10:14.7,Booster
+1116,15,2,10:14.7,Booster
+1117,15,2,10:14.8,Booster
+1118,15,2,10:14.9,Booster
+1119,15,2,10:14.9,Booster
+1120,15,2,10:15.0,Booster
+1121,15,2,10:15.1,Booster
+1122,15,2,10:15.1,Booster
+1123,15,2,10:15.2,Booster
+1124,15,2,10:15.3,Booster
+1125,2A ,9,10:15.3,MI
+1126,AE ,2,10:15.3,NuMI
+1127,1D ,4,10:15.3,Booster
+1128,93,1,10:15.3,Accumulator
+1129,E9 ,20,10:15.3,Recycler
+1130,1C ,2,10:15.4,Booster
+1131,1C ,2,10:15.5,Booster
+1132,1D ,4,10:15.5,Booster
+1133,1D ,4,10:15.6,Booster
+1134,94,1,10:15.6,Accumulator
+1135,E9 ,20,10:15.6,Recycler
+1136,1C ,2,10:15.7,Booster
+1137,1C ,2,10:15.7,Booster
+1138,1D ,4,10:15.8,Booster
+1139,1D ,4,10:15.9,Booster
+1140,E3 ,6,10:15.9,Recycler
+1141,A5 ,2,10:15.9,NuMI
+1142,15,2,10:15.9,Booster
+1143,15,2,10:16.0,Booster
+1144,15,2,10:16.1,Booster
+1145,15,2,10:16.1,Booster
+1146,15,2,10:16.2,Booster
+1147,15,2,10:16.3,Booster
+1148,15,2,10:16.3,Booster
+1149,15,2,10:16.4,Booster
+1150,15,2,10:16.5,Booster
+1151,15,2,10:16.5,Booster
+1152,15,2,10:16.6,Booster
+1153,15,2,10:16.7,Booster
+1154,2A ,9,10:16.7,MI
+1155,AE ,2,10:16.7,NuMI
+1156,1D ,4,10:16.7,Booster
+1157,93,1,10:16.7,Accumulator
+1158,E9 ,20,10:16.7,Recycler
+1159,1C ,2,10:16.8,Booster
+1160,1C ,2,10:16.9,Booster
+1161,1D ,4,10:16.9,Booster
+1162,1D ,4,10:17.0,Booster
+1163,94,1,10:17.0,Accumulator
+1164,E9 ,20,10:17.0,Recycler
+1165,1C ,2,10:17.1,Booster
+1166,1C ,2,10:17.1,Booster
+1167,1D ,4,10:17.2,Booster
